@@ -1,4 +1,3 @@
-
 # Class for adding and dropping classes
 # (Rubocop said to add a class documentation?)
 class Student
